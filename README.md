@@ -1,4 +1,4 @@
-**👋 Hey, I'm codeforgexd
+###**👋 Hey, I'm codeforgexd
 🔥 Python learner | Future game developer
 🎮 Gamer who decided to forge skills into code
 🚀 About Me
@@ -20,4 +20,4 @@ Learn → Build → Break → Fix → Repeat
 Writing clean Python code
 Understanding core programming concepts
 Publishing everything I learn here on GitHub
-⭐ Feel free to follow — the forge has just started.**
+⭐ Feel free to follow — the forge has just started.**###
