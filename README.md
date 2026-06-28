@@ -1,4 +1,4 @@
-# 👋 Hey, I'm codeforgexd
+# 👋 Hey, I'm AliNova 
 
 🔥 Python learner | Future game developer  
 🎮 Gamer who decided to forge skills into code  
